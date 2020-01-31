@@ -1,0 +1,11 @@
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab10-Movies\Lab10-Movies\bin\Debug\netcoreapp3.1\Lab10-Movies.exe
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab10-Movies\Lab10-Movies\bin\Debug\netcoreapp3.1\Lab10-Movies.deps.json
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab10-Movies\Lab10-Movies\bin\Debug\netcoreapp3.1\Lab10-Movies.runtimeconfig.json
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab10-Movies\Lab10-Movies\bin\Debug\netcoreapp3.1\Lab10-Movies.runtimeconfig.dev.json
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab10-Movies\Lab10-Movies\bin\Debug\netcoreapp3.1\Lab10-Movies.dll
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab10-Movies\Lab10-Movies\bin\Debug\netcoreapp3.1\Lab10-Movies.pdb
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab10-Movies\Lab10-Movies\obj\Debug\netcoreapp3.1\Lab10-Movies.csprojAssemblyReference.cache
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab10-Movies\Lab10-Movies\obj\Debug\netcoreapp3.1\Lab10-Movies.AssemblyInfoInputs.cache
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab10-Movies\Lab10-Movies\obj\Debug\netcoreapp3.1\Lab10-Movies.AssemblyInfo.cs
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab10-Movies\Lab10-Movies\obj\Debug\netcoreapp3.1\Lab10-Movies.dll
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab10-Movies\Lab10-Movies\obj\Debug\netcoreapp3.1\Lab10-Movies.pdb
